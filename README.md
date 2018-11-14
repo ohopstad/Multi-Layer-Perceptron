@@ -1,2 +1,3 @@
-# Multi-Layer-Perceptron
-Multi Layer Perceptron
+## Multi-Layer-Perceptron
+
+A quick interpretation.
